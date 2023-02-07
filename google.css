@@ -1,0 +1,65 @@
+body{
+    background-image: url(pexels-brooke-lewis-3623207.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.googleimage{
+    
+    display: block;   
+    text-align: center;
+}
+.search{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+}
+.table{
+    display: block;
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-bottom: 5px;
+    margin-top: 3px;
+    margin-left: 300px;
+    margin-right: 300px;
+    width: 30%;
+    height: 69px;
+    background-color: rgb(126, 229, 218);
+    float: left;
+}
+.table2{
+    font-size: 16px;
+    text-align: center;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 1px;
+    margin-top: -79px;
+    margin-right: 835px;
+    width: 10%;
+    height: 80px;
+    background-color: rgb(126, 229, 218);
+    float: right;
+    
+}
+.table3{
+    font-size: 13px;
+    display: block;
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-bottom: 5px;
+    margin-top: -81px;
+    margin-left: 300px;
+    margin-right: 300px;
+    width: 27.5%;
+    height: 71px;
+    background-color: rgb(126, 229, 218);
+    float: right;
+}
+.text{
+    color: white;
+    margin: 100px
+}
